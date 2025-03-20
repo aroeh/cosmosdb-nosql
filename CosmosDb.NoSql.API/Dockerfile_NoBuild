@@ -1,0 +1,5 @@
+FROM mcr.microsoft.com/dotnet/aspnet:9.0
+USER app
+WORKDIR /app
+COPY CosmosDb.NoSql.API/publish .
+ENTRYPOINT ["dotnet", "CosmosDb.NoSql.API.dll"]

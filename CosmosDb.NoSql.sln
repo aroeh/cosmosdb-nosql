@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDb.NoSql.API", "CosmosDb.NoSql.API\CosmosDb.NoSql.API.csproj", "{DD3AF208-ABF4-430D-B628-52A2E7086712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDb.NoSql.Core", "CosmosDb.NoSql.Core\CosmosDb.NoSql.Core.csproj", "{C9E7B6D3-A268-4510-A3CC-04AFF8D69853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDb.NoSql.Infrastructure", "CosmosDb.NoSql.Infrastructure\CosmosDb.NoSql.Infrastructure.csproj", "{DD2C979E-9E27-4F37-987E-3C191219F380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDb.NoSql.Shared", "CosmosDb.NoSql.Shared\CosmosDb.NoSql.Shared.csproj", "{6572DD13-A5F1-4556-B349-E1851C1D848D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD3AF208-ABF4-430D-B628-52A2E7086712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3AF208-ABF4-430D-B628-52A2E7086712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3AF208-ABF4-430D-B628-52A2E7086712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3AF208-ABF4-430D-B628-52A2E7086712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E7B6D3-A268-4510-A3CC-04AFF8D69853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E7B6D3-A268-4510-A3CC-04AFF8D69853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E7B6D3-A268-4510-A3CC-04AFF8D69853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E7B6D3-A268-4510-A3CC-04AFF8D69853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD2C979E-9E27-4F37-987E-3C191219F380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2C979E-9E27-4F37-987E-3C191219F380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2C979E-9E27-4F37-987E-3C191219F380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2C979E-9E27-4F37-987E-3C191219F380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6572DD13-A5F1-4556-B349-E1851C1D848D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6572DD13-A5F1-4556-B349-E1851C1D848D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6572DD13-A5F1-4556-B349-E1851C1D848D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6572DD13-A5F1-4556-B349-E1851C1D848D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89234E24-4B02-4E9F-BC94-C18D69253A6F}
+	EndGlobalSection
+EndGlobal
