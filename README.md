@@ -119,15 +119,4 @@ docker compose down --rmi "all"
 
 
 # References
-- [MongoDB](https://www.mongodb.com/)
-- [Web API Versioning](https://github.com/dotnet/aspnet-api-versioning)
-- [Output Caching](https://learn.microsoft.com/en-us/aspnet/core/performance/caching/output?view=aspnetcore-8.0)
-- [HealthChecks](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/health-checks?view=aspnetcore-8.0)
-- [Metrics](https://learn.microsoft.com/en-us/aspnet/core/log-mon/metrics/metrics?view=aspnetcore-8.0)
-- [HTTP File Secrets](https://devblogs.microsoft.com/visualstudio/safely-use-secrets-in-http-requests-in-visual-studio-2022/)
-- [Docker Compose CLI](https://docs.docker.com/compose/reference/)
-- [Docker Compose Repo](https://github.com/docker/awesome-compose/tree/master)
-- [Dotnet CLI](https://learn.microsoft.com/en-us/dotnet/core/tools/)
-- [Http Client Factory](https://learn.microsoft.com/en-us/dotnet/core/extensions/httpclient-factory)
-- [Rob Rich Presentations](https://robrich.org/presentations)
-- [Rob Rich XUnit Testing](https://github.com/robrich/net-testing-xunit-moq/blob/main/done/LightController.Tests/LightActuator_ActuateLights.cs)
+- [Azure CosmosDb Emulator](https://learn.microsoft.com/en-us/azure/cosmos-db/how-to-develop-emulator?tabs=windows%2Ccsharp&pivots=api-nosql)
